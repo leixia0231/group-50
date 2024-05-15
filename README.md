@@ -10,5 +10,8 @@ version 1.2:
 - Want to add 3D moudule 
 - To achieve a convert white heart to read heart
 
+version 1.3:
+- To achieve video like function
+- remove the 3D moudule(there are no suitable 3d moudule to use)
 # group-50
 code 
