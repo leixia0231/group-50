@@ -13,5 +13,11 @@ version 1.2:
 version 1.3:
 - To achieve video like function
 - remove the 3D moudule(there are no suitable 3d moudule to use)
+
+version 1.4:
+- try to achieve function for 3D 
+- add function for taking picture
+- add function for watching vdeio
+
 # group-50
 code 
