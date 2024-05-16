@@ -19,5 +19,24 @@ version 1.4:
 - add function for taking picture
 - add function for watching vdeio
 
+Verison 2.0(FINAL VERSION):
+- Log in and registration
+- Home page
+    - watch video
+    - "like" function
+- Shopping page
+    - view detail information
+    - add quantity
+    - service chat
+- Chat
+    -send message 
+- Personal page
+    - view owner store
+    - pubish the products
+        - prodcut's name
+        - prodcut's price
+        - product's description
+        - product's picture
+
 # group-50
 code 
